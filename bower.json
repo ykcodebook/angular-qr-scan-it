@@ -1,0 +1,17 @@
+{
+  "name": "angular-qr-scan-it",
+  "description": "sembrestels/angular-qr-scanner fixes",
+  "main": "",
+  "authors": [
+    "yashwanth krishna"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
