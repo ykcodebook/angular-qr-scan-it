@@ -1,7 +1,7 @@
 {
   "name": "angular-qr-scan-it",
   "description": "sembrestels/angular-qr-scanner fixes",
-  "main": "",
+  "main": "qr-scanner.js",
   "authors": [
     "yashwanth krishna"
   ],
